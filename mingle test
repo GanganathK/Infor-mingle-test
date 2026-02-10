@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>Redirecting to M3...</h2>
+
+    <script>
+      // Force navigation to private-network M3 server
+      window.location.href = "https://begaprd.cloud.infor.com/infor/4577438a-5499-4988-94d9-0afd1c7446ca?favoriteContext=%7B%22menuName%22%3A%22feedMenu%22%2C%22pageName%22%3A%22ActivityFeedPage%22%2C%22type%22%3A%22SocialDrillback%22%2C%22GenFeedMarkup%22%3Atrue%7D&LogicalId=lid://infor.social.1";
+    </script>
+
+  </body>
+</html>
